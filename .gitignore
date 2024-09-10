@@ -1,0 +1,21 @@
+# Archivos y directorios de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de caché y logs
+/cache
+/logs
+
+# Archivos generados
+*.log
+
+# Archivos de entorno(No se utilizo en el proyecto)
+.env
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Archivos de compilación y caché
+*.phar
